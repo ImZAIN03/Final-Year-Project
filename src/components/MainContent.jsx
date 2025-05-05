@@ -29,7 +29,7 @@ const MainContent = () => {
   return (
     <div className="flex-1 min-h-screen pb-[15vh] relative">
       <div className="flex items-center justify-between text-xl p-5 text-slate-700">
-        <p>Gemini</p>
+        <p>Gemini Based AI Chatbot</p>
         <FaUserCircle />
       </div>
 
@@ -39,11 +39,11 @@ const MainContent = () => {
             <div className="my-12 text-[56px] text-slate-500 font-semibold p-5">
               <p>
                 <span className="bg-gradient-to-r from-[#368ddd] to-[#ff5546] bg-clip-text text-transparent">
-                  Hello, Arya.
+                  Hello, There.
                 </span>
               </p>
 
-              <p className="text-slate-400">How can I help you today?</p>
+              <p className="text-slate-400">Gemini Based AI Chatbot Made By Zain and Ubaid</p>
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 p-5">
